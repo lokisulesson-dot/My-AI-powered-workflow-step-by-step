@@ -1,0 +1,436 @@
+Step 1 — Define the research question
+
+You are my market research assistant.
+
+I want to conduct a deep dive into BTCUSDT.
+
+First, define the exact research question we should investigate.
+
+Identify:
+
+1. The current market narrative surrounding BTCUSDT.
+2. The major factors that could materially affect BTCUSDT.
+3. The key uncertainties we need to investigate.
+4. The specific questions we should answer before reaching any conclusion.
+
+Do not predict the future price.
+Do not assume the current narrative is correct.
+Separate confirmed information from interpretation and speculation.
+
+Output:
+
+* Primary research question
+* Current narratives
+* Key factors
+* Key uncertainties
+* Research questions
+
+Step 2 — Establish the current market picture
+
+Analyze the current market picture for BTCUSDT.
+
+Provide:
+
+1. Current BTC price.
+2. Market capitalization.
+3. Trading volume.
+4. Recent volatility.
+5. Performance over:
+
+   * 24 hours
+   * 7 days
+   * 30 days
+   * 90 days
+6. Major recent price movements.
+7. Important support zones.
+8. Important resistance zones.
+9. Significant changes in price or volume.
+10. Any unusual market behavior.
+
+For every important observation, explain what data supports it.
+
+Clearly distinguish:
+
+* Observed market data
+* Interpretation
+* Uncertainty
+
+Do not make a price prediction.
+
+End with a concise "Current Market Picture" summary.
+
+Step 3 — Find the catalysts
+
+Investigate the catalysts currently affecting BTCUSDT.
+
+Analyze:
+
+1. Major events from the last 7 days.
+2. Major events from the last 30 days.
+3. Important developments involving Bitcoin.
+4. Major macroeconomic events affecting crypto.
+5. Important upcoming events.
+6. Events that could materially change the current BTCUSDT market environment.
+
+For every catalyst, provide:
+
+* Catalyst
+* Date
+* What happened
+* Why it matters
+* Potential market relevance
+* Time horizon
+* Evidence/source
+* Level of uncertainty
+
+Separate:
+
+* Confirmed events
+* Reported but unconfirmed information
+* Market speculation
+
+Do not assume that a reported catalyst caused a price movement unless there is evidence supporting that connection.
+
+Step 4 — Analyze the macro environment
+
+Analyze the macroeconomic environment surrounding BTCUSDT.
+
+Investigate the current state and recent changes in:
+
+* Federal Reserve policy
+* Interest rates
+* Inflation
+* Global liquidity
+* US dollar strength
+* Treasury yields
+* Equity markets
+* Gold
+* Overall risk appetite
+* Major geopolitical developments
+
+For each factor:
+
+1. Describe what is happening.
+2. Explain why it may matter for Bitcoin.
+3. Identify whether the relationship is directly evidenced or only a historical/general relationship.
+4. Identify relevant upcoming events or data releases.
+5. Explain what could change the current interpretation.
+
+Then answer:
+
+Is the broader environment currently behaving more like a risk-on or risk-off environment?
+
+Do not answer based on sentiment alone. Provide the evidence supporting the classification.
+
+Do not predict BTC's future price.
+
+Step 5 — Investigate Bitcoin fundamentals
+
+Conduct a fundamental analysis of Bitcoin.
+
+Investigate recent changes in:
+
+1. Adoption
+2. Network activity
+3. Transaction activity
+4. Institutional activity
+5. Bitcoin-related products and infrastructure
+6. Supply dynamics
+7. Mining activity
+8. Fees and network economics
+9. Other measurable fundamental developments
+
+For each factor:
+
+* What has changed?
+* When did it change?
+* What evidence supports the change?
+* Is the change significant?
+* Does it support or contradict the current Bitcoin narrative?
+* What remains uncertain?
+
+Identify:
+
+* Strongest fundamental evidence supporting the current narrative
+* Strongest fundamental evidence contradicting it
+* Important fundamental information that is currently missing
+
+Do not use price movement itself as evidence of improving fundamentals.
+
+Step 6 — Analyze on-chain data and flows
+
+Conduct an on-chain and capital-flow analysis of BTCUSDT.
+
+Investigate, where reliable data is available:
+
+1. Exchange inflows
+2. Exchange outflows
+3. Whale activity
+4. Active addresses
+5. Transaction activity
+6. Long-term holder behavior
+7. Short-term holder behavior
+8. Network activity
+9. Institutional or large-holder flows
+10. Other relevant Bitcoin on-chain metrics
+
+For each metric:
+
+* Current reading
+* Recent trend
+* Historical context, if available
+* What the metric may indicate
+* What it does NOT prove
+* Evidence/source
+* Uncertainty
+
+Then answer:
+
+What does the on-chain data confirm?
+
+What does the on-chain data contradict?
+
+What important questions remain unanswered?
+
+Do not turn individual on-chain metrics into definitive predictions.
+
+Step 7 — Analyze sentiment
+
+Analyze current market sentiment surrounding BTCUSDT.
+
+Identify:
+
+1. Dominant bullish narratives.
+2. Dominant bearish narratives.
+3. Major arguments made by BTC bulls.
+4. Major arguments made by BTC bears.
+5. Current levels of optimism or pessimism.
+6. Signs of unusually strong or weak sentiment.
+7. Important narratives spreading across the market.
+
+For every major claim:
+
+* State the claim.
+* Identify the evidence supporting it.
+* Identify evidence against it.
+* Classify it as:
+
+  * Evidence-based
+  * Partially supported
+  * Speculative
+  * Unsupported
+
+Then answer:
+
+What does the market appear to believe?
+
+What evidence actually supports that belief?
+
+Where is sentiment potentially diverging from measurable data?
+
+Present both bullish and bearish arguments fairly.
+
+Step 8 — Analyze technical structure
+
+Analyze the current technical structure of BTCUSDT.
+
+Examine:
+
+### Timeframes
+
+* 4H
+* Daily
+* Weekly
+
+For each timeframe identify:
+
+1. Current trend.
+2. Major support zones.
+3. Major resistance zones.
+4. Important swing highs and lows.
+5. Breakout or breakdown areas.
+6. Volume behavior.
+7. Volatility conditions.
+8. Important technical structures.
+9. Conditions that would invalidate the current structure.
+
+Then answer:
+
+* What is technically clear?
+* What is ambiguous?
+* Which levels are most important to monitor?
+* What price/volume behavior would strengthen the current interpretation?
+* What price/volume behavior would weaken it?
+
+Do not make a directional price prediction.
+
+Step 9 — Challenge the thesis
+
+Act as a skeptical research analyst.
+
+Review everything we have established about BTCUSDT so far.
+
+Your job is NOT to confirm the current narrative.
+
+Your job is to try to break it.
+
+Identify:
+
+1. Contradictions between price and fundamentals.
+2. Contradictions between technicals and on-chain data.
+3. Contradictions between sentiment and measurable data.
+4. Contradictions between macro conditions and the current BTC narrative.
+5. Evidence that contradicts the dominant bullish argument.
+6. Evidence that contradicts the dominant bearish argument.
+7. Important information that has been ignored.
+8. Claims that rely primarily on assumptions.
+9. Data that could be misleading or taken out of context.
+10. Evidence that would materially change our interpretation.
+
+Then answer:
+
+"What is the strongest argument against our current interpretation of BTCUSDT?"
+
+Be deliberately skeptical.
+
+Do not introduce unsupported claims merely to create disagreement.
+
+Step 10 — Build the scenarios
+
+Based only on the evidence collected so far, construct three possible BTCUSDT scenarios:
+
+1. Bullish scenario
+2. Neutral scenario
+3. Bearish scenario
+
+For each scenario provide:
+
+* Scenario description
+* Evidence supporting it
+* Relevant catalysts
+* Macro conditions required
+* Fundamental conditions
+* On-chain conditions
+* Technical conditions
+* Sentiment conditions
+* What would confirm the scenario
+* What would invalidate the scenario
+* What data/events should be monitored
+
+Do NOT assign probabilities.
+
+Do NOT declare which scenario will happen.
+
+Frame each scenario as a conditional pathway:
+
+"If X, Y and Z occur, this scenario becomes more consistent with the available evidence."
+
+Clearly distinguish evidence from assumptions.
+
+Step 11 — Filter out the noise
+
+Review the entire BTCUSDT research.
+
+Identify the 5 most important variables that currently deserve monitoring.
+
+For each variable provide:
+
+1. Variable
+2. Why it matters
+3. Current condition
+4. Direction of recent change
+5. Evidence
+6. What would strengthen its significance
+7. What would weaken its significance
+8. What specific event/data change should be monitored
+
+Do not rank the variables by "which will make BTC go up."
+
+Instead, organize them according to how directly they affect our understanding of the current BTCUSDT market narrative.
+
+Separate:
+
+* High-confidence observations
+* Important uncertainties
+* Low-confidence/speculative signals
+
+Step 12 — Generate the final report
+
+Using only the research and evidence collected throughout this analysis, create a concise BTCUSDT Market Deep-Dive Report.
+
+Do not introduce unsupported information.
+
+Do not make a price prediction.
+
+Do not declare a winning scenario.
+
+Clearly distinguish facts, interpretations, uncertainties and conditional scenarios.
+
+Use this exact structure:
+
+# BTCUSDT MARKET DEEP DIVE
+
+**Research date:** [DATE]
+
+## 1. Current Situation
+
+What is happening in the BTCUSDT market right now?
+
+## 2. Key Drivers
+
+What are the most important factors currently driving the market narrative?
+
+## 3. Macro Environment
+
+What macroeconomic conditions are relevant?
+
+## 4. Fundamentals
+
+What fundamental developments matter?
+
+## 5. On-Chain / Flows
+
+What does measurable on-chain and flow data show?
+
+## 6. Sentiment
+
+What are the dominant bullish and bearish narratives, and what evidence supports each?
+
+## 7. Technical Structure
+
+What does the 4H, daily and weekly structure show?
+
+## 8. Contradictions
+
+What evidence does not fit the dominant narrative?
+
+## 9. Scenarios
+
+Present:
+
+* Bullish scenario
+* Neutral scenario
+* Bearish scenario
+
+For each, provide:
+Evidence → Conditions → Confirmation → Invalidation → What to monitor
+
+## 10. What to Watch
+
+Identify the most important upcoming events, data releases, technical levels and measurable changes to monitor.
+
+## Final Research Summary
+
+Summarize:
+
+WHAT IS HAPPENING →
+WHY IT MAY BE HAPPENING →
+WHAT EVIDENCE SUPPORTS THE INTERPRETATION →
+WHAT CONTRADICTS IT →
+WHAT COULD CHANGE THE INTERPRETATION →
+WHAT SHOULD BE MONITORED NEXT
+
+Keep the conclusion evidence-based and conditional rather than predictive.
+
+
+
