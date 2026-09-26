@@ -1,0 +1,151 @@
+STEP1. MARKET SNAPSHOT
+
+Analyze BTCUSDT right now.
+
+Give me:
+
+* Current price and recent performance
+* Volume and volatility
+* Current trend
+* Important support and resistance
+* Major recent changes
+
+Separate facts from interpretation.
+
+---
+
+STEP2. WHAT IS DRIVING BTC?
+
+Identify the main things currently affecting BTCUSDT.
+
+Look at:
+
+* Recent news and events
+* Major catalysts
+* Macro conditions
+* Important upcoming events
+
+For each major driver, explain **what happened, why it matters, and what evidence supports it.**
+
+---
+
+STEP3. FUNDAMENTALS & ON-CHAIN
+
+Investigate whether the data supports the current Bitcoin narrative.
+
+Analyze the most relevant:
+
+* Fundamental developments
+* Network activity
+* Exchange flows
+* Whale activity
+* Institutional flows
+* Other important on-chain metrics
+
+Tell me what the data **supports, contradicts, or cannot confirm**.
+
+---
+
+STEP4. SENTIMENT & TECHNICALS
+
+Analyze both market sentiment and technical structure.
+
+**Sentiment:**
+
+* Main bullish arguments
+* Main bearish arguments
+* Which arguments have evidence?
+* Which are speculation?
+
+**Technicals:**
+
+* 4H trend
+* Daily trend
+* Weekly trend
+* Key support/resistance
+* Important breakout/breakdown levels
+* What would invalidate the current structure?
+
+---
+
+STEP5. CHALLENGE THE THESIS
+
+Act as a skeptical analyst.
+
+Look for contradictions across everything we researched.
+
+Ask:
+
+* What doesn't fit the dominant narrative?
+* What evidence contradicts the bullish case?
+* What evidence contradicts the bearish case?
+* Are there important missing pieces?
+* What assumptions are being made?
+* What information could change our interpretation?
+
+Give me the **strongest argument against the current interpretation**.
+
+---
+
+STEP6. BUILD SCENARIOS
+
+Create three conditional scenarios for BTCUSDT:
+
+**Bullish**
+
+* What would need to happen?
+* What evidence would confirm it?
+* What would invalidate it?
+
+**Neutral**
+
+* What would need to happen?
+* What evidence would confirm it?
+* What would invalidate it?
+
+**Bearish**
+
+* What would need to happen?
+* What evidence would confirm it?
+* What would invalidate it?
+
+Do not assign probabilities or predict which scenario will happen.
+
+---
+
+STEP7. FINAL DEEP-DIVE REPORT
+
+Now combine everything into a concise report.
+
+Use this structure:
+
+# BTCUSDT MARKET DEEP DIVE
+
+**Current Situation**
+What is happening?
+
+**Key Drivers**
+Why is it happening?
+
+**Fundamentals & On-Chain**
+What does the data show?
+
+**Sentiment**
+What are bulls and bears saying, and what is supported by evidence?
+
+**Technical Structure**
+What does the chart show?
+
+**Contradictions**
+What doesn't fit the main narrative?
+
+**Scenarios**
+Bullish / Neutral / Bearish — with conditions and invalidation points.
+
+**What to Watch**
+List the most important events, data, levels and signals to monitor next.
+
+**Bottom Line**
+Summarize what we know, what we don't know, and what could change the current interpretation.
+
+Do not make a simple "BTC will go up/down" prediction. Base the analysis on evidence and clearly distinguish facts, interpretations and uncertainties.
